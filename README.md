@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 Hi there, I'm MigPro :)
+### Just your average turtle on the internet.
+
+> Uhhh... I think I'm supposed to put some stuff here, so...
+
+#### 🎓 Currently learning:
+  - C
+  - Python
+
+#### 🚀 Cool projects/repos:
+  - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) is an amazing Atom Editor fork thats regurarly mantianed.
+
+#### ✍️ About me:
+  - Chronic procrastinator 👍
+  - something something its 2am and idk how i ended up here
 
 <!--
 **MigProPlayer/MigProPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
