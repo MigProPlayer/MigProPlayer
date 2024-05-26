@@ -1,9 +1,9 @@
-## 👋 Hi there, I'm MigPro :)
+## 👋 Hi there, I'm **MigPro** :)
 ### Just your average turtle on the internet.
 
 ![me!](https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60e/u1f60e_u1f422.png)
 
-> Uhhh... I think I'm supposed to put some stuff here, so...
+> Uhhh... I think I'm supposed to like... put some stuff here, so...
 
 #### 🎓 Currently learning:
   - C ⚙️
@@ -17,7 +17,11 @@
 
 #### ✍️ About me:
   - I start projects and never finish them 👍
+  - I read the docs 💪
   - I mostly translate other projects to my native language (Portuguese - Portugal) 🌐
+  - Proud Windows and Samsung user ✨
+  - Currently trying to make a website 🖥️
+  - Minecraft player ⛏️ IGN: `MigProPlayer_`
 
 im out of ideas and its 3am rn so imma go to sleep byee
 
