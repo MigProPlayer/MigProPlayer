@@ -1,18 +1,25 @@
 ## 👋 Hi there, I'm MigPro :)
 ### Just your average turtle on the internet.
 
+![me!](https://www.gstatic.com/android/keyboard/emojikitchen/20201001/u1f60e/u1f60e_u1f422.png)
+
 > Uhhh... I think I'm supposed to put some stuff here, so...
 
 #### 🎓 Currently learning:
-  - C
-  - Python
+  - C ⚙️
+  - Python 🐍
+  - Java ☕
+  - HTML 🖥️
 
 #### 🚀 Cool projects/repos:
-  - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) is an amazing Atom Editor fork thats regurarly mantianed.
+  - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) is an amazing Atom Editor fork thats regurarly mantianed. :atom:
+  - [emojimix](https://emoji.mx/) is a cool website that lets you mix google emojis to make new ones (thats where my pfp comes from!) 🐢
 
 #### ✍️ About me:
-  - Chronic procrastinator 👍
-  - something something its 2am and idk how i ended up here
+  - I start projects and never finish them 👍
+  - I mostly translate other projects to my native language (Portuguese - Portugal) 🌐
+
+im out of ideas and its 3am rn so imma go to sleep byee
 
 <!--
 **MigProPlayer/MigProPlayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
